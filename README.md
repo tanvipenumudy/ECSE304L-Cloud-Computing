@@ -9,3 +9,5 @@ ECSE304L: Cloud Computing Lab Assignments
 
 [AWS Your Acclaim Profile](https://www.youracclaim.com/users/tanvi-penumudy/badges)
 
+[DP 900 Badge](https://www.youracclaim.com/badges/51f70477-e812-4b9a-9d72-fb9f6669afc4/)
+
