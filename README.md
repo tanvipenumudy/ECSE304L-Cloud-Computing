@@ -17,3 +17,5 @@ ECSE304L: Cloud Computing Lab Assignments
 
 [MS 900 Badge](https://www.youracclaim.com/badges/40851948-5a8e-4197-bffb-566ca632a325/)
 
+[MB 901 Badge](https://www.youracclaim.com/badges/7d685ea5-c9c1-4284-a21f-74a6e8b649b4/)
+
